@@ -1,2 +1,3 @@
 # hello-world
-Iea Store
+Idea Store
+Yup, I'm inroducing myself. 
