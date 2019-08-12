@@ -1,2 +1,1 @@
-# hello-world
-Hello World! I'm Mahshid from Seattle!
+Ler's create ideas here!
