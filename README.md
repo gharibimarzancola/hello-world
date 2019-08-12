@@ -1,3 +1,3 @@
 # hello-world
 Idea Store
-Yup, I'm inroducing myself. 
+Hello World! I'm Mahshid from Seattle!
